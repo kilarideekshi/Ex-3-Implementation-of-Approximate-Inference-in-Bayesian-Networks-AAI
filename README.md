@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-3: Implementation of Approximate Inference in Bayesian Networks </H1>
 
-### Name: 
-### Register Number:
+### Name: Deekshitha K
+### Register Number: 2305002005
 
 ## Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.
@@ -133,6 +133,7 @@ print(query_result)
 ```
 ---
 ## Output:
+<img width="840" height="615" alt="image" src="https://github.com/user-attachments/assets/95f36c9b-15db-462d-8969-61002165ffa7" />
 
 
 ---
